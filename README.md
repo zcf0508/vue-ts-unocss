@@ -1,4 +1,4 @@
-# naiveblue-helper-next
+# vue-ts-unocss
 
 ## Project setup
 ```
