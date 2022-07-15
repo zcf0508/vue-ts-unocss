@@ -107,7 +107,10 @@ const add = () => {
   counterStore.add();
 };
 
-add()
+add();
+
+const route = useRoute();
+console.log(route.path);
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
